@@ -237,7 +237,7 @@ bool ganar(){
          return true;
     }
 
-    if(jugada == 9){
+    if(jugada == 10){
         playArea();
         reintentar(true);
     }
